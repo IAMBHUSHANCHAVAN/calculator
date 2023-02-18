@@ -3,7 +3,7 @@
 .container{
     margin-top: 50px;
     margin-left: 35%;
-    height: 800px;
+    height: 850px;
     width: 20%;
     background-color: aliceblue;
     border: 10px solid black;
@@ -68,7 +68,7 @@
     box-shadow: 3px 3px 0.5px 1px grey;
     width: 33%;
     height: 40px;
-    padding-bottom: 15px;
+    padding-bottom: 20px;
     text-align: center;
     font-family: 'Anton', sans-serif;
     font-size: larger;
@@ -83,7 +83,7 @@
     margin: 5px 25px 25px 25px;
     height: 40px;
     text-align: center;
-    padding-bottom: 15px;
+    padding-bottom: 20px;
     font-family: 'Anton', sans-serif;
     font-size: larger;
     justify-content: center;
